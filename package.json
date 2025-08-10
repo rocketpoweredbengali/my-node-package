@@ -1,6 +1,6 @@
 {
   "name": "sourjya-biswas",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "An interactive personal CLI card for Sourjya Biswas",
   "main": "index.js",
   "bin": {
