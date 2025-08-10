@@ -1,0 +1,30 @@
+{
+  "name": "sourjya-biswas",
+  "version": "2.0.0",
+  "description": "An interactive personal CLI card for Sourjya Biswas",
+  "main": "index.js",
+  "bin": {
+    "sourjya-biswas": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli-card",
+    "vcard",
+    "sourjya-biswas",
+    "interactive"
+  ],
+  "author": "Sourjya Biswas",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^5.0.1",
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.4",
+    "open": "^8.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sourjya-biswas/your-repo-name.git"
+  }
+}
